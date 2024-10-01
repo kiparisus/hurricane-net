@@ -1,4 +1,6 @@
 # hurricane-net
+[![DOI](https://zenodo.org/badge/865962602.svg)](https://doi.org/10.5281/zenodo.13869123)
+
 Data used in "Urban Resilience and Critical Infrastructure Accessibility: Lessons from Hurricane Michael"
 
 This dataset represents networks of Panama City in their three system states:
@@ -12,3 +14,5 @@ The dataset was built based on the following open data:
 2. Center for International Earth Science Information Network — CIESIN — Columbia University. Gridded Population of the World, 808 Version 4.11 (GPWv4): UN WPP-Adjusted Population Count, Revision 11 2018. https://sedac.ciesin.columbia.edu/data/set/gpw-v4-population-count-adjusted-to-2015-unwpp-country-totals-rev11.
 3. Center for International Earth Science Information Network — CIESIN — Columbia University. Gridded Population of the World, 811 Version 4.11 (GPWv4): Basic Demographic Characteristics, Revision 11 2018. https://sedac.ciesin.columbia.edu/data/set/gpw-v4-basic-demographic-characteristics-rev11.
 4. National Geodetic Survey: 2018 NOAA NGS Emergency Response Imagery: Hurricane Michael. https://storms.ngs.noaa.gov/storms/michael/index.html#8/29.885/-85.930.
+
+

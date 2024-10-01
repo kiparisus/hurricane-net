@@ -3,9 +3,9 @@ Data used in "Urban Resilience and Critical Infrastructure Accessibility: Lesson
 
 This dataset represents networks of Panama City in their three system states:
 
-- System 0 (s0.gml) -- pre-hurricane system as of October 2018;
-- System 1 (s1.gml) -- network affected by the hurricane with obstructed edges removed;
-- System 2 (s2.gml) -- network in the recovery process as of June 2024.
+- `s0.gml` -- pre-hurricane system as of October 2018;
+- `s1.gml` -- network affected by the hurricane with obstructed edges removed;
+- `s2.gml` -- network in the recovery process as of June 2024.
 
 The dataset was built based on the following open data:
 1. OSM History Dump. OpenStreetMap Contributors. 2024, https://planet.openstreetmap.org/planet/full-history/.

@@ -1,5 +1,5 @@
 # hurricane-net
-[![DOI](https://zenodo.org/badge/865962602.svg)](https://doi.org/10.5281/zenodo.13869123)
+[![DOI](https://zenodo.org/badge/865962602.svg)](https://doi.org/10.5281/zenodo.13869203)
 
 Data used in "Urban Resilience and Critical Infrastructure Accessibility: Lessons from Hurricane Michael"
 

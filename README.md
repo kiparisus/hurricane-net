@@ -1,9 +1,9 @@
 # hurricane-net
 [![DOI](https://zenodo.org/badge/865962602.svg)](https://doi.org/10.5281/zenodo.13869203)
 
-Data used in "Urban Resilience and Critical Infrastructure Accessibility: Lessons from Hurricane Michael"
+Supplementary data used in "Network-based framework for assessing urban critical infrastructure accessibility and resilience: the case of Hurricane Michael"
 
-This dataset represents networks of Panama City in their three system states:
+This dataset represents a network of Panama City in its three system states:
 
 - `s0.gml` -- pre-hurricane system as of October 2018;
 - `s1.gml` -- network affected by the hurricane with obstructed edges removed;

@@ -1,7 +1,7 @@
 # hurricane-net
 [![DOI](https://zenodo.org/badge/865962602.svg)](https://doi.org/10.5281/zenodo.13869203)
 
-Supplementary data used in "Integrated GIS- and network-based framework for assessing urbancritical infrastructure accessibility and resilience: the case of Hurricane Michael"
+Supplementary data used in "Integrated GIS- and network-based framework for assessing urban critical infrastructure accessibility and resilience: the case of Hurricane Michael"
 
 This dataset represents a network of Panama City in its three system states:
 
